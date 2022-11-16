@@ -7,7 +7,7 @@ My daughter is at Year 1 in school and is currently tasked with counting in 2s, 
 
 # Installation
 
-Download the ZIP file from this repo, go to https://make.powerapps.com and click on Solutions, Import Solution, browse to the ZIP file and follow the on screen prompts
+Download the AddingandSubtracting_1_0_0_1.zip file from this repo, go to https://make.powerapps.com and click on Solutions, Import Solution, browse to the ZIP file and follow the on screen prompts
 
 # Canvas app components
 
