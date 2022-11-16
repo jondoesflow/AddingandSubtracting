@@ -3,7 +3,7 @@ A standalone Power Apps Canvas App to help children in Year 1 count and subtract
 
 # Introduction
 
-My daughter is at Year 1 in school and is currently tasked with counting in 5s, 10s, and being able to add or subtract 1 from any number between 1 and 99. I decided to create an canvas app to help her with her computer literacy as well as being able to improve her maths.
+My daughter is at Year 1 in school and is currently tasked with counting in 2s, 5s, and being able to add or subtract 1 from any number between 1 and 99. I decided to create an canvas app to help her with her computer literacy as well as being able to improve her maths.
 
 # Installation
 
