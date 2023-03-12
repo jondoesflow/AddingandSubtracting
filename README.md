@@ -15,8 +15,6 @@ There is only one component in this unmanaged solution and that is the canvas ap
 
 ## Home Screen
 
-![image](https://user-images.githubusercontent.com/60231096/202145929-f96d9794-a2ee-4d30-8c79-fec63779d62b.png)
-
 From the home screen, you can either go to the Find the Number, Count in 2s or Count in 5s screens.
 
 ##Find the Number
